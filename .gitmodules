@@ -1,0 +1,3 @@
+[submodule "CrispyZebra"]
+	path = CrispyZebra
+	url = https://github.com/kurogedelic/CrispyZebra.git
